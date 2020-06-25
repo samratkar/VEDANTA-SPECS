@@ -1,0 +1,32 @@
+21/02/2020, 12:35:34
+1. Hard work, sincerity, and understanding the concepts well : mistral + HON, GATE + HON
+    i. scenario - 2003
+    ii. action -
+    iii. outcome - HON job
+2. Leading a big multi-function team
+    i. scenario - 2005 - EASE static, dynamic and qualification
+    ii.  action -
+        i. static - only fms
+        ii. dynamic - flight training solutions and aero tools team
+        iii. qualification of the tool
+3. Direct customer interaction -
+        i. Aviaso - Go direct fuel efficiency - pure agile project.
+        ii. Airbus -
+              > K Test and design discussions - A350/A380 family plan
+              > A300 - AEDB finalization.
+        iii. Boeing systems - Roger Pecham and I with the Boeing Joint Tests.
+4. Rapid prototyping - fast customer response - 2019
+    > FME for A350 - porting from A300, by changing the AEDB and the interfacing.
+5. New process - thought leadership
+  > KBD - Guru Program, Study groups, MS Teams.
+  > FCI aligned to Agile - Told rearch, NADP, FPRTA
+  > JIRA based work flow management - Kanban and Agile
+  > Agile leaderboard for the team. Story pointing.
+  > DCP agile works
+6. AI applications
+  > ML PDB
+  > TEST AI
+  > PM AI
+  > Fast estimation tool
+  > SCR burndown prediction model - quality analytics. reduced the open rate by 50%
+  > CMMi evalution team. 

@@ -1,0 +1,16 @@
+1. highly bureaucratic organization -
+    1. Various tiers to handle a simple product and service.
+        FMS - tiers
+            1. developers
+            2. function focals
+            3. project lead
+            4. engineering manager
+            5. director
+            6. business unit lead - ES - Niranjan
+            7. business group lead - Aero - Kap
+            8. HTS
+        So, actual people who work, can never grow and get a bigger understanding of the work. This inhibits the customer contact. 
+2. No scope of creativity. Things are highly standard. Huge focus on standardization.
+3. Not aligned to the business. Rather it is aligned to corporate. So, there is always a perennial rift between work priorities between Aero and HTS. This siphons out productivity.
+4. Organization structure is not fully mapped from HTS and Aero. This causes lots of confusion. The recent organization change removed my role all together. But I am continuing to do what I was doing earlier :)
+5. At HTS there is a tendency to tweak things - by changing the presentation layer and spending lots and lots of time  branding and rewording the same thing. Like Z21 is nothing but Agile. HOS is nothing by Toyota lean system. They always think that their business is so special that the industry best practices cannot go well. In that move they tend to tweak standard practices and hence lose out. For example Agile! I am struggling for two years, and they have not been able to implement it with the intent. The tweaked agile to suit their comfort zone.
