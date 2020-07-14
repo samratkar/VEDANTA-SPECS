@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg width="2691" height="1752" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_3">
+   <ellipse cx="378.666677" cy="141" fill="#ffff00" id="svg_4" rx="42.500011" ry="37.5" stroke="#000000"/>
+   <path d="m311.785799,152.03565l66.285724,-116.000017l66.285724,116.000017l-132.571448,0z" fill="#000000" id="svg_1" stroke="#000000" stroke-width="5"/>
+  </g>
+  <ellipse cx="376.166669" cy="235.5" fill="#ffff00" id="svg_5" opacity="0.85" rx="80.000002" ry="48" stroke="#000000" stroke-linecap="square"/>
+  <ellipse cx="379.666671" cy="338.999985" fill="#ffff00" id="svg_7" opacity="0.85" rx="113.500007" ry="48" stroke="#000000" stroke-linecap="square"/>
+  <ellipse cx="379.166666" cy="443.999969" fill="#ffff00" id="svg_8" opacity="0.85" rx="168.500007" ry="48" stroke="#000000" stroke-linecap="square"/>
+  <text fill="#000000" font-family="serif" font-size="24" font-weight="bold" id="svg_9" stroke="#000000" stroke-width="0" style="cursor: move;" text-anchor="middle" x="378.166667" xml:space="preserve" y="346.5">मन:</text>
+  <text fill="#000000" font-family="serif" font-size="24" font-weight="bold" id="svg_10" stroke="#000000" stroke-width="0" style="cursor: move;" text-anchor="middle" x="375.166667" xml:space="preserve" y="242.5">बुद्धि</text>
+  <text fill="#000000" font-family="serif" font-size="24" font-weight="bold" id="svg_11" stroke="#000000" stroke-width="0" text-anchor="middle" x="384.166667" xml:space="preserve" y="450.5">इन्द्रिया</text>
+  <text fill="#ffffaa" font-family="serif" font-size="24" font-weight="bold" id="svg_12" stroke="#ffffff" stroke-width="0" text-anchor="middle" x="373.166667" xml:space="preserve" y="116.5">आत्मा</text>
+ </g>
+</svg>
