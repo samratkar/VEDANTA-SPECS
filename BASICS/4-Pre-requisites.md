@@ -1,5 +1,5 @@
 ![Sadhan Chatushtaya](ILLUSTRATIONS/4-Pre-requisites.svg)
-**<span style="color:brown;font-family:Calibri; font-size:1em;"> SADHANA CHATUSHTAYA - THE FOUR MEANS OF SALVATION </span>**
+**<span style="color:brown;font-family:Calibri; font-size:2em;"> SADHANA CHATUSHTAYA - THE FOUR MEANS OF SALVATION </span>**
 >- **`Viveka`**
 >- **`Vairagya`**
 >- **`Shad-Sampat`**
